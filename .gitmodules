@@ -13,3 +13,6 @@
 [submodule "EMACS/org-babel-examples"]
 	path = EMACS/org-babel-examples
 	url = https://github.com/dfeich/org-babel-examples.git
+[submodule "EMACS/refcard-org-babel"]
+	path = EMACS/refcard-org-babel
+	url = git@github.com:fniessen/refcard-org-babel.git
