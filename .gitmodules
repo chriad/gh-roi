@@ -10,3 +10,6 @@
 [submodule "gpicann"]
 	path = gpicann
 	url = https://github.com/masm11/gpicann.git
+[submodule "EMACS/org-babel-examples"]
+	path = EMACS/org-babel-examples
+	url = https://github.com/dfeich/org-babel-examples.git
