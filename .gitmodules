@@ -16,3 +16,6 @@
 [submodule "EMACS/refcard-org-babel"]
 	path = EMACS/refcard-org-babel
 	url = git@github.com:fniessen/refcard-org-babel.git
+[submodule "cryptotools"]
+	path = cryptotools
+	url = git@github.com:mcdallas/cryptotools.git
