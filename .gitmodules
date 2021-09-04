@@ -7,3 +7,6 @@
 [submodule "sshkey-grab"]
 	path = sshkey-grab
 	url = git@github.com:NetSPI/sshkey-grab.git
+[submodule "gpicann"]
+	path = gpicann
+	url = https://github.com/masm11/gpicann.git
