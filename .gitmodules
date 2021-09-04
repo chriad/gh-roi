@@ -1,6 +1,3 @@
-[submodule "sshkey-grab"]
-	path = sshkey-grab
-	url = ./sshkey-grab/
 [submodule "AWESOME/awesome-humane-tech"]
 	path = AWESOME/awesome-humane-tech
 	url = https://github.com/humanetech-community/awesome-humane-tech
