@@ -4,3 +4,6 @@
 [submodule "asc-key-to-qr-code"]
 	path = asc-key-to-qr-code
 	url = https://github.com/4bitfocus/asc-key-to-qr-code.git
+[submodule "sshkey-grab"]
+	path = sshkey-grab
+	url = git@github.com:NetSPI/sshkey-grab.git
