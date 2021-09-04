@@ -1,3 +1,9 @@
 [submodule "sshkey-grab"]
 	path = sshkey-grab
 	url = ./sshkey-grab/
+[submodule "AWESOME/awesome-humane-tech"]
+	path = AWESOME/awesome-humane-tech
+	url = https://github.com/humanetech-community/awesome-humane-tech
+[submodule "asc-key-to-qr-code"]
+	path = asc-key-to-qr-code
+	url = https://github.com/4bitfocus/asc-key-to-qr-code.git
