@@ -22,3 +22,6 @@
 [submodule "stringlish"]
 	path = stringlish
 	url = git@github.com:aycock/stringlish.git
+[submodule "git-katas"]
+	path = git-katas
+	url = https://github.com/eficode-academy/git-katas.git
