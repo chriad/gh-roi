@@ -19,3 +19,6 @@
 [submodule "cryptotools"]
 	path = cryptotools
 	url = git@github.com:mcdallas/cryptotools.git
+[submodule "stringlish"]
+	path = stringlish
+	url = git@github.com:aycock/stringlish.git
