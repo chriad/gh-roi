@@ -10,3 +10,8 @@ Should be literate in org-mode
 - run the program. Define the input and show the output
 - critizise the repo in some way, make enhancements.
 - describe the repo
+
+  ./Compare-UserJS
+
+  Use to compare profile obtained by user.js and by online configuration tool at ffprofile.com
+pwsh -Version 2 -File Compare-UserJS.ps1 /home/chriad/.mozilla/firefox/ffprofile/prefs.js /home/chriad/.mozilla/firefox/opexgjn4.chriad/user.js

@@ -25,3 +25,6 @@
 [submodule "git-katas"]
 	path = git-katas
 	url = https://github.com/eficode-academy/git-katas.git
+[submodule "Compare-UserJS"]
+	path = Compare-UserJS
+	url = https://github.com/claustromaniac/Compare-UserJS.git
