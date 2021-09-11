@@ -31,3 +31,6 @@
 [submodule "fx"]
 	path = fx
 	url = https://github.com/antonmedv/fx.git
+[submodule "Compare-UserJS"]
+	path = Compare-UserJS
+	url = https://github.com/claustromaniac/Compare-UserJS.git
