@@ -25,3 +25,9 @@
 [submodule "git-katas"]
 	path = git-katas
 	url = https://github.com/eficode-academy/git-katas.git
+[submodule "metagoofil"]
+	path = metagoofil
+	url = https://github.com/opsdisk/metagoofil.git
+[submodule "fx"]
+	path = fx
+	url = https://github.com/antonmedv/fx.git
