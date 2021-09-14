@@ -37,3 +37,6 @@
 [submodule "bulk-downloader-for-reddit"]
 	path = bulk-downloader-for-reddit
 	url = https://github.com/aliparlakci/bulk-downloader-for-reddit.git
+[submodule "3d_soundscape"]
+	path = 3d_soundscape
+	url = https://github.com/emilyxxie/3d_soundscape.git
