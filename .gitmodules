@@ -40,3 +40,9 @@
 [submodule "3d_soundscape"]
 	path = 3d_soundscape
 	url = https://github.com/emilyxxie/3d_soundscape.git
+[submodule "EMACS/org-fc"]
+	path = EMACS/org-fc
+	url = git@github.com:l3kn/org-fc.git
+[submodule "GISTS/lovecraft-word-pairs"]
+	path = GISTS/lovecraft-word-pairs
+	url = https://gist.github.com/sbma44/499288c2e5968a92956a3c5bfcc3e7ab
