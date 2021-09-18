@@ -49,3 +49,6 @@
 [submodule "paperkey"]
 	path = paperkey
 	url = git@github.com:dmshaw/paperkey.git
+[submodule "training-kit"]
+	path = training-kit
+	url = https://github.com/github/training-kit.git
