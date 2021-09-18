@@ -46,3 +46,6 @@
 [submodule "GISTS/lovecraft-word-pairs"]
 	path = GISTS/lovecraft-word-pairs
 	url = https://gist.github.com/sbma44/499288c2e5968a92956a3c5bfcc3e7ab
+[submodule "paperkey"]
+	path = paperkey
+	url = git@github.com:dmshaw/paperkey.git
