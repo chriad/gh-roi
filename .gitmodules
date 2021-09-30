@@ -49,3 +49,12 @@
 [submodule "paperkey"]
 	path = paperkey
 	url = git@github.com:dmshaw/paperkey.git
+[submodule "MPV/ssh-mpv"]
+	path = MPV/ssh-mpv
+	url = https://github.com/djblue/ssh-mpv.git
+[submodule "MPV/mpv-scripts"]
+	path = MPV/mpv-scripts
+	url = https://github.com/occivink/mpv-scripts.git
+[submodule "MPV/mpvctl"]
+	path = MPV/mpvctl
+	url = https://github.com/mibli/mpvctl.git
