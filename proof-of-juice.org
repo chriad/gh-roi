@@ -15,3 +15,10 @@ Should be literate in org-mode
 
   Use to compare profile obtained by user.js and by online configuration tool at ffprofile.com
 pwsh -Version 2 -File Compare-UserJS.ps1 /home/chriad/.mozilla/firefox/ffprofile/prefs.js /home/chriad/.mozilla/firefox/opexgjn4.chriad/user.js
+
+** asc-key-to-qr-code
+done
+** gpicann
+** training-kit
+- for the cheat sheets
+- Run it locally on a http server
