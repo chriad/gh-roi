@@ -61,3 +61,6 @@
 [submodule "MPV/mpvctl"]
 	path = MPV/mpvctl
 	url = https://github.com/mibli/mpvctl.git
+[submodule "MPV/jftui"]
+	path = MPV/jftui
+	url = https://github.com/Aanok/jftui.git
