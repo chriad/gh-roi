@@ -64,3 +64,6 @@
 [submodule "MPV/jftui"]
 	path = MPV/jftui
 	url = https://github.com/Aanok/jftui.git
+[submodule "anoise"]
+	path = anoise
+	url = https://github.com/costales/anoise.git
